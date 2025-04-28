@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "skyblock:collector/03cobblestone": {
+    "criteria": {
+      "cobblestone": "2025-04-28 01:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-28 01:26:55 +0000"
