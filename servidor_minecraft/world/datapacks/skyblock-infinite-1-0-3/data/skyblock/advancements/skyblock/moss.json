@@ -1,0 +1,23 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:moss_block"},
+        "title": {"translate":"Magic Moss"},
+        "description": {"translate":"Tired of getting more dirt using Coarse Dirt? Try turning moss into Podzol!"}
+    },
+    "parent": "skyblock:skyblock/pointed_dripstone",
+    "criteria": {
+        "get_moss": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+              {
+                "items": [
+                  "minecraft:moss_block"
+                ]
+              }
+            ]
+          }
+        }
+      }
+}

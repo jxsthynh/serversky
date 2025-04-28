@@ -1,0 +1,24 @@
+{
+  "name": "void_structure_fixes:desert_pyramid/desert_pyramid",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "void_structure_fixes:desert_pyramid/pyramid_sand_right",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "void_structure_fixes:desert_pyramid/pyramid_sand_left",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

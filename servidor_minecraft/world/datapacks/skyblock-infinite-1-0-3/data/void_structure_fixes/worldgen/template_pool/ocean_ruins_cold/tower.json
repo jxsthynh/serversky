@@ -1,0 +1,43 @@
+{
+    "name": "void_structure_fixes:ocean_ruins_cold/tower",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_cold/tower/tower_01",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_cold/tower/tower_02",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_cold/tower/tower_03",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_cold/tower/tower_04",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

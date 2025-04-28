@@ -1,0 +1,43 @@
+{
+    "name": "void_structure_fixes:desert_pyramid/left_sand",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:desert_pyramid/left_sand/variant_01",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:desert_pyramid/left_sand/variant_02",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:desert_pyramid/left_sand/variant_03",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:desert_pyramid/left_sand/variant_04",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

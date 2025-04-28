@@ -1,0 +1,17 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:dirt"},
+        "title": {"translate": "Dirt Collector"},
+        "description": {"translate": "Collect a stack of 64 dirt."}
+    },
+    "parent": "skyblock:collector/03cobblestone",
+    "criteria":
+    {
+        "dirt":
+        {
+            "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"items": ["minecraft:dirt"],"count": 64}]}
+        }
+    }
+}

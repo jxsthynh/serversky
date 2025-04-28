@@ -1,0 +1,15 @@
+{
+  "name": "void_structure_fixes:swamp_hut/swamp_hut",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "void_structure_fixes:swamp_hut/swamp_hut",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:melon_slice"
+      },
+      "title": "Melon Farmer ",
+      "description": "Get a stack of Melon Slices."
+    },
+    "parent": "skyblock:farmer/seedy_place",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:melon_slice"
+              ],
+              "count": 64
+            }
+          ]
+        }
+      }
+    }
+  }
+  

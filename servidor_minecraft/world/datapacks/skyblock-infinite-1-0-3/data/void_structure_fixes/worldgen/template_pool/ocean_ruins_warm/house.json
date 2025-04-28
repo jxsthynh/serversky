@@ -1,0 +1,43 @@
+{
+    "name": "void_structure_fixes:ocean_ruins_warm/house",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_warm/house/house_01",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_warm/house/house_02",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_warm/house/house_03",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "void_structure_fixes:ocean_ruins_warm/house/house_04",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

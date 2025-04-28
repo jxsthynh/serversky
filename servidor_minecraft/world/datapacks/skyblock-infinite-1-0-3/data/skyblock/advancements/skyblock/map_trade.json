@@ -1,0 +1,21 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:filled_map"},
+        "title": {"translate":"Explorer Map"},
+        "description": {"translate":"Buy a Explorer Map from a village."}
+    },
+    "parent": "skyblock:skyblock/01the_cure",	
+    "criteria": {
+        "get_moss": {
+          "trigger": "minecraft:villager_trade",
+          "conditions": {
+            "item": {
+              "items": [
+                "minecraft:filled_map"
+              ]
+            }
+          }
+        }
+      }
+}
