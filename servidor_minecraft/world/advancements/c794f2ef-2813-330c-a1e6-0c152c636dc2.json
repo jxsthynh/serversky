@@ -1,7 +1,8 @@
 {
   "skyblock:skyblock/exploration": {
     "criteria": {
-      "swamp": "2025-04-28 00:37:25 +0000"
+      "swamp": "2025-04-28 00:37:25 +0000",
+      "desert": "2025-04-28 03:29:22 +0000"
     },
     "done": false
   },
@@ -32,12 +33,6 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-28 01:26:55 +0000"
-    },
-    "done": true
-  },
-  "skyblock:collector/03cobblestone": {
-    "criteria": {
-      "cobblestone": "2025-04-28 01:45:10 +0000"
     },
     "done": true
   },
@@ -87,12 +82,6 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-04-28 01:26:55 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/root": {
-    "criteria": {
-      "dirt": "2025-04-28 01:27:14 +0000"
     },
     "done": true
   },
@@ -298,12 +287,6 @@
     },
     "done": true
   },
-  "skyblock:farmer/root": {
-    "criteria": {
-      "sapling": "2025-04-28 01:37:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-28 01:26:55 +0000"
@@ -397,12 +380,6 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-04-28 01:26:55 +0000"
-    },
-    "done": true
-  },
-  "skyblock:skyblock/cobblestone_generator": {
-    "criteria": {
-      "cobblestone": "2025-04-28 01:31:44 +0000"
     },
     "done": true
   },
@@ -995,12 +972,6 @@
     },
     "done": true
   },
-  "skyblock:farmer/all_trees": {
-    "criteria": {
-      "oak": "2025-04-28 01:37:19 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-28 01:26:55 +0000"
@@ -1466,12 +1437,6 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-04-28 01:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-04-28 01:29:39 +0000"
     },
     "done": true
   },
@@ -2116,6 +2081,42 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-28 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/root": {
+    "criteria": {
+      "dirt": "2025-04-28 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/cobblestone_generator": {
+    "criteria": {
+      "cobblestone": "2025-04-28 01:31:44 +0000"
+    },
+    "done": true
+  },
+  "skyblock:farmer/root": {
+    "criteria": {
+      "sapling": "2025-04-28 01:37:19 +0000"
+    },
+    "done": true
+  },
+  "skyblock:farmer/all_trees": {
+    "criteria": {
+      "oak": "2025-04-28 01:37:19 +0000"
+    },
+    "done": false
+  },
+  "skyblock:collector/03cobblestone": {
+    "criteria": {
+      "cobblestone": "2025-04-28 01:45:10 +0000"
     },
     "done": true
   },
