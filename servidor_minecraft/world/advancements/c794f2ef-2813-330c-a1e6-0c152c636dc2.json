@@ -2120,5 +2120,11 @@
     },
     "done": true
   },
+  "skyblock:farmer/seedy_place": {
+    "criteria": {
+      "wheat": "2025-04-28 22:30:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
