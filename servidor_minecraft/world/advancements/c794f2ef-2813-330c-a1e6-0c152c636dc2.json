@@ -292,6 +292,12 @@
     },
     "done": true
   },
+  "skyblock:farmer/root": {
+    "criteria": {
+      "sapling": "2025-04-28 01:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-28 01:26:55 +0000"
@@ -385,6 +391,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-04-28 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "skyblock:skyblock/cobblestone_generator": {
+    "criteria": {
+      "cobblestone": "2025-04-28 01:31:44 +0000"
     },
     "done": true
   },
@@ -976,6 +988,12 @@
       "has_stone": "2025-04-28 01:26:55 +0000"
     },
     "done": true
+  },
+  "skyblock:farmer/all_trees": {
+    "criteria": {
+      "oak": "2025-04-28 01:37:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
